@@ -1,0 +1,13 @@
+1: Code location:
+    All my codes are in 'Main.ipynb'
+2: How to use it:
+    2-1: Open my project by Jupyter Notebook
+    2-2: Open 'Main.ipynb' file
+    2-3: Click 'Kernel' -> 'Restart & Run All' -> 'Restart and Run All Cells'
+    2-4: All graphs will be shown at the end of the file 
+    2-5: Also, graphs will be saved as a .png file in the project folder
+3: What I use in the project:
+    For my interest, I use Seaborn to generate W4 and W5 graphs.
+    But for W3 ones, I only use Seaborn to set-up figure style by sns.setup()
+4: What if the graph cannot be generated correctly:
+    If there is any problem on generating the graphs please contact me via Email :)
